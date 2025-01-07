@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game Development\\Unity\\EPrismAndOPrism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|d:\\game development\\unity\\eprismandoprism\\assets\\script\\charactername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|d:\\game development\\unity\\eprismandoprism\\assets\\script\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|D:\\Game Development\\Unity\\EPrismAndOPrism\\assets\\script\\videoendscenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\videoendscenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|D:\\Game Development\\Unity\\EPrismAndOPrism\\assets\\script\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|D:\\Game Development\\Unity\\EPrismAndOPrism\\assets\\script\\questiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\questiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|D:\\Game Development\\Unity\\EPrismAndOPrism\\assets\\script\\jeopardygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\jeopardygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|D:\\Game Development\\Unity\\EPrismAndOPrism\\assets\\script\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|D:\\Game Development\\Unity\\EPrismAndOPrism\\assets\\script\\resetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122ECC6-C0E8-E93B-AC7F-2E96CEB055EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionData.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\QuestionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\QuestionData.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\QuestionData.cs",
+              "RelativeToolTip": "Assets\\Script\\QuestionData.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAwOkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:55:03.066Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JeopardyGame.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\JeopardyGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\JeopardyGame.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\JeopardyGame.cs",
+              "RelativeToolTip": "Assets\\Script\\JeopardyGame.cs",
+              "ViewState": "AgIAAEYCAAAAAAAAAAAIwFgCAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:33:49.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:39:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\QuizManager.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Script\\QuizManager.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAtwJkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:14:52.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataLoader.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\DataLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DataLoader.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\DataLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\DataLoader.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:59:36.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetAll.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\ResetAll.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResetAll.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\ResetAll.cs",
+              "RelativeToolTip": "Assets\\Script\\ResetAll.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:39:03.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterName.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\CharacterName.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharacterName.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\CharacterName.cs",
+              "RelativeToolTip": "Assets\\Script\\CharacterName.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:22:41.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoEndSceneChange.cs",
+              "DocumentMoniker": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\VideoEndSceneChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\VideoEndSceneChange.cs",
+              "ToolTip": "D:\\Game Development\\Unity\\EPrismAndOPrism\\Assets\\Script\\VideoEndSceneChange.cs",
+              "RelativeToolTip": "Assets\\Script\\VideoEndSceneChange.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:32:21.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
